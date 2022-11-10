@@ -1,0 +1,78 @@
+#navbar{
+    background-color: #FFE4C4;
+    align-items: center;
+    margin-top: 2px;
+    padding-top: 30px;
+}
+
+#navbar-brand{
+    color: #FFE4B5;
+}
+#nav-item{
+    color: #6f3307;
+}
+#navbar-brand:hover{
+    color: #FFDEAD;
+    transition: 0.3 all;
+}
+
+#ola{
+    background-color: #ffefdf;
+    font-size: 50px;
+    font-family: poppinsmedium;
+    padding-bottom: 30px;
+}
+#txt-sobre{
+    font-size: 20px;
+    font-family: poppinslight;
+    
+}
+#sobre{
+    background-color: #fccfa6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#graduacao{
+    background-color: #fbb27c;
+    padding-top: 20px;
+    align-items: center;
+    padding-bottom: 30px;
+  
+}
+#faculdades{
+    background-color: #f59040;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#grade{
+    background-color: #fa6d11;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#mercado{
+    background-color: #bd530f;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#areas{
+    background-color: #9f4d14;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#perfil{
+    background-color: #914007;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#textoperfil{
+    color: #fff7f7;
+}
